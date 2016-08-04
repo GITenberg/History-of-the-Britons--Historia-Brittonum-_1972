@@ -1,0 +1,33 @@
+_repo: History-of-the-Britons--Historia-Brittonum-_1972
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Giles, J. A. (John Allen)
+    alias: Giles, John Allen
+    birthdate: 1808
+    deathdate: 1884
+    gutenberg_agent_id: '760'
+    url: http://www.gutenberg.org/2009/agents/760
+creator:
+  author:
+    agent_name: Nennius, active 796
+    gutenberg_agent_id: '765'
+    url: http://www.gutenberg.org/2009/agents/765
+    wikipedia: http://en.wikipedia.org/wiki/Nennius
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Britons'
+- !lcsh 'Great Britain -- History -- Roman period, 55 B.C.-449 A.D.'
+- GITenberg
+title: History of the Britons (Historia Brittonum)
+url: http://www.gutenberg.org/ebooks/1972
