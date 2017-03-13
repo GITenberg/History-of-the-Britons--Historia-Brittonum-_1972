@@ -1,5 +1,5 @@
 _repo: History-of-the-Britons--Historia-Brittonum-_1972
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Giles, J. A. (John Allen)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1884
     gutenberg_agent_id: '760'
     url: http://www.gutenberg.org/2009/agents/760
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nennius, active 796
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/765
     wikipedia: http://en.wikipedia.org/wiki/Nennius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1972#History-of-the-Britons--Historia-Brittonum-
 gutenberg_bookshelf: Arthurian Legends
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
